@@ -1,0 +1,7 @@
+{
+    "Accuracy": 0.5,
+    "Position_Bias": 0.8333,
+    "Verbosity_Correlation": 0.041,
+    "Valid_Predictions": 12,
+    "Total_Samples": 30
+}
